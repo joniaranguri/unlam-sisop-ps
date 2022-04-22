@@ -3,44 +3,6 @@
 ### Sistemas Operativos
 Última revisión Abril 2021
 
-# 
-# Contenido
-  - [Introducción](#introducción)
-  - [Instalar PowerShell Core](#instalar-powershell-core)
-    - [Linux](#linux)
-    - [Windows](#windows)
-    - [Mac](#mac)
-  - [IDE](#ide)
-    - [Windows PowerShell ISE](#windows-powershell-ise)
-    - [Visual Studio Code (Recomendado)](#visual-studio-code-recomendado)
-  - [CLI](#cli)
-    - [cmdlets en PowerShell](#cmdlets-en-powerShell)
-    - [Algunos ejemplos](#algunos-ejemplos)
-  - [PowerShell pipeline](#powershell-pipeline)
-  - [Filtrado de resultados](#filtrado-de-resultados)
-    - [Por registros](#por-registros)
-    - [Por columnas](#por-columnas)
-  - [Sintaxis de los scripts](#sintaxis-de-los-scripts)
-    - [Variables](#variables)
-    - [Uso de comillas](#uso-de-comillas)
-    - [Comentarios](#comentarios)
-    - [Condiciones y ciclos](#condiciones-y-ciclos)
-    - [Funciones](#funciones)
-    - [Parámetros](#parámetros)
-    - [Opciones de parámetros](#opciones-de-parámetros)
-    - [ParameterSets (Conjunto de parámetros)](#parametersets-conjunto-de-parámetros)
-    - [Estructura de las funciones](#estructura-de-las-funciones)
-    - [Colecciones](#colecciones)
-      - [Listas](#listas)
-      - [Hast Tables](#hast-tables)
-  - [Manejo de eventos](#manejo-de-eventos)
-    - [Timer](#timer)
-    - [FileSystemWatcher](#filesystemwatcher)
-  - [Scopes](#scopes)
-  - [Manejo de Errores](#manejo-de-errores)
-  - [Sección Ayuda](#sección-ayuda)
-  - [Cmdlets frecuentes](#cmdlets-frecuentes)
-#
 # Introducción
 ## ¿Qué es PowerShell?
 PowerShell es una solución de automatización de tareas multiplataforma formada por un shell de línea de comandos, un lenguaje de scripting y un marco de administración de configuración. PowerShell funciona en Windows 10, Linux y macOS.
