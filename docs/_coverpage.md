@@ -9,4 +9,4 @@
 - Ingeniería en Informática
 
 [GitHub](https://github.com/rodrieja/unlam-sisop-ps)
-[Empezar](#powershell)
+[Empezar](#Introducción)
