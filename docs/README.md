@@ -1,8 +1,3 @@
-# PowerShell
-## Guia téorica y práctica sobre PowerShell
-### Sistemas Operativos
-Última revisión Abril 2021
-
 # Introducción
 ## ¿Qué es PowerShell?
 PowerShell es una solución de automatización de tareas multiplataforma formada por un shell de línea de comandos, un lenguaje de scripting y un marco de administración de configuración. PowerShell funciona en Windows 10, Linux y macOS.
